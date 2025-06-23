@@ -76,7 +76,7 @@ Evaluasi menunjukkan bahwa:
 | Logistic Regression  (Base) |  **80%**  | **0.81**  | **0.79** | **0.79** |
 | Logistic Regression (Final) |  **84%**  | **0.83**  | **0.83** | **0.83** |
 
-Meskipun model yang digunakan tergolong klasik dan ringan, Logistic Regression, hasilnya sangat kompetitif — bahkan mendekati kinerja model-model deep learning dalam klasifikasi teks bencana.
+Meskipun model yang digunakan tergolong klasik dan ringan, Logistic Regression, hasilnya sangat kompetitif, bahkan mendekati kinerja model-model deep learning dalam klasifikasi teks bencana.
 
 <img src="assets/Screenshot Kaggle  (3).png" alt="F1-Score test data" width="600">
 
