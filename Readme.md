@@ -16,7 +16,7 @@ Proyek ini bertujuan untuk membangun **model machine learning** yang dapat membe
 
 ## 📁 Dataset
 
-Dataset yang digunakan berisi 10.876 tweet berbahasa Inggris yang terbagi menjadi 7.613 data train dan 3263 data test telah diklasifikasi secara manual.  
+Dataset yang digunakan berisi 10.876 tweet berbahasa Inggris yang terbagi menjadi 3.263 data test dan 7.613 data train yang telah diklasifikasi secara manual.  
 Label:
 - `1`: Tweet terkait bencana nyata
 - `0`: Tweet tidak terkait bencana
