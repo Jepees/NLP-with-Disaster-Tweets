@@ -8,7 +8,7 @@ Proyek ini bertujuan untuk membangun model klasifikasi yang dapat mendeteksi apa
 
 Twitter telah menjadi saluran komunikasi penting ketika terjadi bencana. Dengan adanya smartphone, masyarakat bisa langsung melaporkan kejadian yang mereka saksikan secara real-time. Hal ini membuat banyak lembaga seperti organisasi bantuan bencana dan media tertarik untuk memantau informasi melalui Twitter secara otomatis.
 
-Namun, tidak semua tweet yang terdengar "darurat" benar-benar menggambarkan kejadian bencana. Misalnya, seseorang bisa saja menggunakan kata "ABLAZE" secara metaforis. Ini mudah dikenali oleh manusia, tetapi tidak selalu demikian bagi mesin.
+Namun, tidak semua tweet yang terdengar "darurat" benar-benar menggambarkan kejadian bencana. Misalnya, seseorang bisa saja menggunakan kata "ABLAZE" secara metaforis. Ini mudah dikenali oleh manusia, tetapi tidak selalu demikian bagi computer.
 
 Proyek ini bertujuan untuk membangun **model machine learning** yang dapat membedakan apakah sebuah tweet benar-benar terkait dengan bencana atau tidak.
 
